@@ -1,0 +1,1 @@
+.flag-root{display:inline-flex;align-items:center;gap:10px}.flag-root.rtl{flex-direction:row-reverse}.flag-root .fi{width:25px;height:20px;border-radius:4px;background-repeat:no-repeat}@media(max-width:768px){.flag-root .country-name{font-size:1rem}}
